@@ -1,0 +1,14 @@
+module bubble
+
+go 1.13
+
+require (
+	github.com/gin-gonic/gin v1.9.1
+	github.com/go-sql-driver/mysql v1.7.0 // indirect
+	github.com/jinzhu/gorm v1.9.16
+	github.com/jinzhu/now v1.1.5 // indirect
+	github.com/smartystreets/goconvey v1.6.4 // indirect
+	github.com/ugorji/go v1.1.7 // indirect
+	gopkg.in/ini.v1 v1.55.0
+	gopkg.in/yaml.v2 v2.2.8 // indirect
+)
